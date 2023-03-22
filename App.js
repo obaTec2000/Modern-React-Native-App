@@ -14,7 +14,7 @@ const theme = {
   },
 };
 
-const Stack = createStackNavigator();
+const Stack = createNativeStackNavigator();
 
 const App = () => {
   const [loaded] = useFonts({

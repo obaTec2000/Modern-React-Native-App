@@ -1,5 +1,5 @@
 import HomeHeader from "./HomeHeader";
-import NFTCard from "./NFTCard";
+import NFTCard from "./NEFTCard"
 import { RectButton, CircleButton } from "./Button";
 import { SubInfo, People, EndDate, EthPrice, NFTTitle } from "./SubInfo";
 import DetailsBid from "./DetailsBid";
